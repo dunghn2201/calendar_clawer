@@ -1,0 +1,68 @@
+{
+  "existing": {
+    "https://lichviet.app/2024/07": {
+      "status": "status_404",
+      "has_calendar": false,
+      "content_length": 919,
+      "title": "404: This page could not be found"
+    },
+    "https://lichvn.net/lich-van-nien/2024-07": {
+      "status": "status_404",
+      "has_calendar": false,
+      "content_length": 16,
+      "title": "No title"
+    },
+    "https://tuvi.vn/lich-am/2024/7": {
+      "status": "success",
+      "has_calendar": false,
+      "content_length": 7654,
+      "title": "Thông tin cá nhân"
+    },
+    "https://lichvannien.net/lich-van-nien/thang-7-2024.html": {
+      "status": "status_404",
+      "has_calendar": false,
+      "content_length": 1078,
+      "title": "Not Found - Lịch Vạn Niên"
+    },
+    "https://lichngaytot.com/lich-am/2024/7": {
+      "status": "status_404",
+      "has_calendar": false,
+      "content_length": 3743,
+      "title": "Page not found"
+    },
+    "https://licham365.vn/lich-am/2024/7": {
+      "status": "status_404",
+      "has_calendar": false,
+      "content_length": 170,
+      "title": "Lịch Âm 365"
+    },
+    "https://lichvannien365.com/lich-am/2024/7": {
+      "status": "status_404",
+      "has_calendar": false,
+      "content_length": 5510,
+      "title": "No title"
+    }
+  },
+  "new": {
+    "lichamnguyet.vn": {
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='lichamnguyet.vn', port=443): Max retries exceeded with url: /lich-am-duong/2024/7 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10206ad50>: Failed to resolve 'lichamnguyet.vn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "url": "https://lichamnguyet.vn/lich-am-duong/2024/7"
+    },
+    "24h.com.vn": {
+      "status": "no_data",
+      "url": "https://www.24h.com.vn/lich-van-nien/7-2024.html"
+    },
+    "lich123.vn": {
+      "status": "error",
+      "error": "HTTPSConnectionPool(host='lich123.vn', port=443): Max retries exceeded with url: /lich-am/2024/7 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10206b110>: Failed to resolve 'lich123.vn' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "url": "https://lich123.vn/lich-am/2024/7"
+    },
+    "amlich.vn": {
+      "status": "no_data",
+      "url": "https://amlich.vn/lich-am/2024/7"
+    }
+  },
+  "best_existing": [],
+  "best_new": []
+}

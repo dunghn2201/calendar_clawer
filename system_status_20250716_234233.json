@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-07-16T23:42:33.677679",
+  "system_status": "operational",
+  "active_crawlers": [
+    "improved_crawler"
+  ],
+  "inactive_crawlers": [
+    "lichviet",
+    "lichvn",
+    "tuvi",
+    "demo"
+  ],
+  "data_quality": "hybrid_generated",
+  "recommendations": [
+    "Tìm kiếm API chính xác hơn",
+    "Cải thiện thuật toán lunar calendar",
+    "Thêm validation cho dữ liệu can chi"
+  ]
+}

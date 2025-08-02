@@ -1,0 +1,544 @@
+2025-07-16 20:54:33,357 - LichVietCrawler - INFO - Đang crawl: https://lichviet.app/2024/01
+2025-07-16 20:54:45,201 - LichVietCrawler - ERROR - Lỗi crawl tháng 1/2024: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".calendar-container") to be visible
+
+2025-07-16 20:55:16,812 - LichVnCrawler - WARNING - Attempt 1 failed for https://lichvn.net/lich-van-nien/2024-01: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2024-01
+2025-07-16 20:55:18,879 - LichVnCrawler - WARNING - Attempt 2 failed for https://lichvn.net/lich-van-nien/2024-01: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2024-01
+2025-07-16 20:55:21,934 - LichVnCrawler - WARNING - Attempt 3 failed for https://lichvn.net/lich-van-nien/2024-01: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2024-01
+2025-07-16 20:55:21,934 - LichVnCrawler - ERROR - All attempts failed for https://lichvn.net/lich-van-nien/2024-01
+2025-07-16 20:55:30,800 - LichVnCrawler - WARNING - Attempt 1 failed for https://lichvn.net/lich-van-nien/2024-01: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2024-01
+2025-07-16 20:55:32,861 - LichVnCrawler - WARNING - Attempt 2 failed for https://lichvn.net/lich-van-nien/2024-01: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2024-01
+2025-07-16 20:55:35,916 - LichVnCrawler - WARNING - Attempt 3 failed for https://lichvn.net/lich-van-nien/2024-01: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2024-01
+2025-07-16 20:55:35,916 - LichVnCrawler - ERROR - All attempts failed for https://lichvn.net/lich-van-nien/2024-01
+2025-07-16 20:55:40,791 - TuviCrawler - INFO - Đang phân tích: https://tuvi.vn/lich-am/2024/1
+2025-07-16 20:55:40,792 - TuviCrawler - WARNING - Không tìm thấy calendar table trong https://tuvi.vn/lich-am/2024/1
+2025-07-16 20:55:52,298 - AutoCrawler - INFO - ✅ Đã khởi tạo tất cả crawlers
+2025-07-16 20:55:52,298 - AutoCrawler - INFO - 🚀 Bắt đầu crawl ngày 2025-07-16
+2025-07-16 20:55:52,298 - AutoCrawler - INFO - 📡 Crawling lichviet...
+2025-07-16 20:55:52,667 - LichVietCrawler - INFO - Đang crawl: https://lichviet.app/2025/07
+2025-07-16 20:56:04,393 - LichVietCrawler - ERROR - Lỗi crawl tháng 7/2025: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".calendar-container") to be visible
+
+2025-07-16 20:56:04,394 - AutoCrawler - WARNING - ⚠️ lichviet: Không có dữ liệu
+2025-07-16 20:56:04,394 - AutoCrawler - INFO - 📡 Crawling lichvn...
+2025-07-16 20:56:06,097 - LichVnCrawler - WARNING - Attempt 1 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 20:56:08,657 - LichVnCrawler - WARNING - Attempt 2 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 20:56:12,215 - LichVnCrawler - WARNING - Attempt 3 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 20:56:12,215 - LichVnCrawler - ERROR - All attempts failed for https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 20:56:12,215 - AutoCrawler - WARNING - ⚠️ lichvn: Không có dữ liệu
+2025-07-16 20:56:12,215 - AutoCrawler - INFO - 📡 Crawling tuvi...
+2025-07-16 20:56:13,538 - TuviCrawler - INFO - Đang phân tích: https://tuvi.vn/lich-am/2025/7
+2025-07-16 20:56:13,540 - TuviCrawler - WARNING - Không tìm thấy calendar table trong https://tuvi.vn/lich-am/2025/7
+2025-07-16 20:56:13,540 - AutoCrawler - WARNING - ⚠️ tuvi: Không có dữ liệu
+2025-07-16 20:56:13,540 - AutoCrawler - INFO - 📋 Tổng kết crawl hôm nay:
+2025-07-16 20:56:13,540 - AutoCrawler - INFO -   lichviet: ⚠️ Không có dữ liệu
+2025-07-16 20:56:13,540 - AutoCrawler - INFO -   lichvn: ⚠️ Không có dữ liệu
+2025-07-16 20:56:13,540 - AutoCrawler - INFO -   tuvi: ⚠️ Không có dữ liệu
+2025-07-16 21:01:09,728 - AutoCrawler - INFO - ✅ Đã khởi tạo tất cả crawlers
+2025-07-16 21:01:09,729 - AutoCrawler - INFO - 🚀 Bắt đầu crawl ngày 2025-07-16
+2025-07-16 21:01:09,729 - AutoCrawler - INFO - 📡 Crawling demo...
+2025-07-16 21:01:09,729 - DemoCrawler - INFO - Tạo demo data cho tháng 7/2025
+2025-07-16 21:01:10,234 - DemoCrawler - INFO - Đã tạo 31 ngày demo data
+2025-07-16 21:01:10,234 - AutoCrawler - INFO - ✅ demo: Crawl thành công
+2025-07-16 21:01:10,234 - AutoCrawler - INFO - 📡 Crawling api_demo...
+2025-07-16 21:01:14,523 - VietnameseCalendarAPI - WARNING - Attempt 1 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1208e3cb0>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 21:01:16,534 - VietnameseCalendarAPI - WARNING - Attempt 2 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1209b8410>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 21:01:19,543 - VietnameseCalendarAPI - WARNING - Attempt 3 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1209b8a50>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 21:01:19,543 - VietnameseCalendarAPI - ERROR - All attempts failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7
+2025-07-16 21:01:19,544 - VietnameseCalendarAPI - INFO - API không khả dụng, sử dụng demo data
+2025-07-16 21:01:19,544 - DemoCrawler - INFO - Tạo demo data cho tháng 7/2025
+2025-07-16 21:01:20,049 - DemoCrawler - INFO - Đã tạo 31 ngày demo data
+2025-07-16 21:01:20,049 - AutoCrawler - INFO - ✅ api_demo: Crawl thành công
+2025-07-16 21:01:20,050 - AutoCrawler - INFO - 📡 Crawling lichviet...
+2025-07-16 21:01:20,832 - LichVietCrawler - INFO - Đang crawl: https://lichviet.app/2025/07
+2025-07-16 21:01:32,593 - LichVietCrawler - ERROR - Lỗi crawl tháng 7/2025: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".calendar-container") to be visible
+
+2025-07-16 21:01:32,593 - AutoCrawler - WARNING - ⚠️ lichviet: Không có dữ liệu
+2025-07-16 21:01:32,593 - AutoCrawler - INFO - 📡 Crawling lichvn...
+2025-07-16 21:01:34,416 - LichVnCrawler - WARNING - Attempt 1 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 21:01:36,971 - LichVnCrawler - WARNING - Attempt 2 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 21:01:40,560 - LichVnCrawler - WARNING - Attempt 3 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 21:01:40,561 - LichVnCrawler - ERROR - All attempts failed for https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 21:01:40,561 - AutoCrawler - WARNING - ⚠️ lichvn: Không có dữ liệu
+2025-07-16 21:01:40,561 - AutoCrawler - INFO - 📡 Crawling tuvi...
+2025-07-16 21:01:41,899 - TuviCrawler - INFO - Đang phân tích: https://tuvi.vn/lich-am/2025/7
+2025-07-16 21:01:41,902 - TuviCrawler - WARNING - Không tìm thấy calendar table trong https://tuvi.vn/lich-am/2025/7
+2025-07-16 21:01:41,902 - AutoCrawler - WARNING - ⚠️ tuvi: Không có dữ liệu
+2025-07-16 21:01:41,902 - AutoCrawler - INFO - 💾 Đã lưu dữ liệu ngày: data/daily/lich_2025_07_16.json
+2025-07-16 21:01:41,902 - AutoCrawler - INFO - 📋 Tổng kết crawl hôm nay:
+2025-07-16 21:01:41,902 - AutoCrawler - INFO -   demo: ✅ Thành công
+2025-07-16 21:01:41,902 - AutoCrawler - INFO -   api_demo: ✅ Thành công
+2025-07-16 21:01:41,902 - AutoCrawler - INFO -   lichviet: ⚠️ Không có dữ liệu
+2025-07-16 21:01:41,902 - AutoCrawler - INFO -   lichvn: ⚠️ Không có dữ liệu
+2025-07-16 21:01:41,903 - AutoCrawler - INFO -   tuvi: ⚠️ Không có dữ liệu
+2025-07-16 21:01:57,981 - processors.data_processor - INFO - Đã load 2 records từ data/daily/lich_2025_07_16.json
+2025-07-16 21:01:57,981 - processors.data_processor - INFO - Bắt đầu làm sạch dữ liệu...
+2025-07-16 21:01:57,996 - processors.data_processor - INFO - Hoàn thành làm sạch: 2 records hợp lệ
+2025-07-16 21:01:58,008 - processors.data_processor - INFO - Đã xuất 2 records ra SQLite database: data/daily/lich_2025_07_16_processed.db
+2025-07-16 21:01:58,012 - processors.data_processor - INFO - Đã xuất 2 records ra data/daily/lich_2025_07_16_processed.csv
+2025-07-16 21:06:51,825 - DemoCrawler - INFO - Tạo demo data cho tháng 7/2024
+2025-07-16 21:06:52,330 - DemoCrawler - INFO - Đã tạo 31 ngày demo data
+2025-07-16 21:06:52,332 - DemoCrawler - INFO - Đã lưu 31 records vào data/test_1.json
+2025-07-16 21:32:55,150 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-01
+2025-07-16 21:33:21,827 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:21,830 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-02
+2025-07-16 21:33:24,169 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:24,170 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-03
+2025-07-16 21:33:26,404 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:26,405 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-04
+2025-07-16 21:33:28,593 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:28,593 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-05
+2025-07-16 21:33:30,780 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:30,780 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-06
+2025-07-16 21:33:33,194 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:33,194 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-07
+2025-07-16 21:33:35,290 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:35,291 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-08
+2025-07-16 21:33:36,948 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:36,948 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-09
+2025-07-16 21:33:38,484 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:38,484 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-10
+2025-07-16 21:33:40,143 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:40,143 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-11
+2025-07-16 21:33:42,084 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:42,084 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-12
+2025-07-16 21:33:43,797 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:43,799 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-13
+2025-07-16 21:33:45,516 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:45,516 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-14
+2025-07-16 21:33:47,587 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:47,588 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-15
+2025-07-16 21:33:49,465 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:49,465 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-16
+2025-07-16 21:33:51,354 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:51,354 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-17
+2025-07-16 21:33:53,207 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:53,207 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-18
+2025-07-16 21:33:54,721 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:54,721 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-19
+2025-07-16 21:33:56,523 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:56,524 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-20
+2025-07-16 21:33:58,376 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:33:58,377 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-21
+2025-07-16 21:34:00,175 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:34:00,176 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-22
+2025-07-16 21:34:02,349 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:34:02,350 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-23
+2025-07-16 21:34:03,815 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:34:03,815 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-24
+2025-07-16 21:34:05,197 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:34:05,197 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-25
+2025-07-16 21:34:06,602 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:34:06,603 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-26
+2025-07-16 21:34:08,315 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:34:08,315 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-27
+2025-07-16 21:34:09,957 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:34:09,957 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-28
+2025-07-16 21:34:11,626 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:34:11,626 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-29
+2025-07-16 21:34:13,121 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:34:13,121 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-30
+2025-07-16 21:34:14,484 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:34:14,485 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-31
+2025-07-16 21:34:15,882 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-16 21:34:15,885 - LichVanNien365Crawler - INFO - Đã lưu 31 records vào data/test_9.json
+2025-07-16 21:35:33,487 - LichVannienCrawler - INFO - Crawling https://lichvannien.net/lich-am/nam/2024/thang/7/ngay/1
+2025-07-16 21:35:33,488 - LichVannienCrawler - INFO - Successfully crawled data for 01/07/2024
+2025-07-16 21:35:33,488 - LichVannienCrawler - INFO - Crawling https://lichvannien.net/lich-am/nam/2024/thang/7/ngay/15
+2025-07-16 21:35:33,488 - LichVannienCrawler - INFO - Successfully crawled data for 15/07/2024
+2025-07-16 21:35:33,488 - LichVannienCrawler - INFO - Crawling https://lichvannien.net/lich-am/nam/2024/thang/7/ngay/31
+2025-07-16 21:35:33,488 - LichVannienCrawler - INFO - Successfully crawled data for 31/07/2024
+2025-07-16 21:35:33,488 - LichVannienCrawler - INFO - Crawled 3 days for month 7/2024
+2025-07-16 21:35:33,488 - LichVannienCrawler - INFO - Đã lưu 3 records vào data/test_6.json
+2025-07-16 21:36:00,535 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-01
+2025-07-16 21:36:04,541 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:04,541 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-02
+2025-07-16 21:36:07,888 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:07,889 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-03
+2025-07-16 21:36:11,250 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:11,250 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-04
+2025-07-16 21:36:14,649 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:14,649 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-05
+2025-07-16 21:36:17,977 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:17,977 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-06
+2025-07-16 21:36:21,290 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:21,290 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-07
+2025-07-16 21:36:24,605 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:24,605 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-08
+2025-07-16 21:36:27,990 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:27,990 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-09
+2025-07-16 21:36:31,401 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:31,401 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-10
+2025-07-16 21:36:34,768 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:34,768 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-11
+2025-07-16 21:36:40,381 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:40,381 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-12
+2025-07-16 21:36:43,898 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:43,898 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-13
+2025-07-16 21:36:47,293 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:47,294 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-14
+2025-07-16 21:36:50,654 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:50,654 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-15
+2025-07-16 21:36:54,114 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:54,115 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-16
+2025-07-16 21:36:57,553 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:36:57,553 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-17
+2025-07-16 21:37:00,840 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:00,840 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-18
+2025-07-16 21:37:04,350 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:04,351 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-19
+2025-07-16 21:37:07,815 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:07,815 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-20
+2025-07-16 21:37:11,404 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:11,405 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-21
+2025-07-16 21:37:14,873 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:14,873 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-22
+2025-07-16 21:37:18,169 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:18,170 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-23
+2025-07-16 21:37:21,640 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:21,640 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-24
+2025-07-16 21:37:25,025 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:25,025 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-25
+2025-07-16 21:37:28,324 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:28,324 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-26
+2025-07-16 21:37:31,688 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:31,688 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-27
+2025-07-16 21:37:34,996 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:34,996 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-28
+2025-07-16 21:37:38,333 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:38,333 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-29
+2025-07-16 21:37:41,745 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:41,746 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-30
+2025-07-16 21:37:45,340 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:45,341 - LichNgayTotCrawler - INFO - Bắt đầu crawl dữ liệu từ https://lichngaytot.com cho ngày 2024-07-31
+2025-07-16 21:37:48,912 - LichNgayTotCrawler - INFO - Crawl thành công từ LichNgayTot
+2025-07-16 21:37:48,918 - LichNgayTotCrawler - INFO - Đã lưu 31 records vào data/test_7.json
+2025-07-16 21:38:10,587 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-01
+2025-07-16 21:38:14,356 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:14,356 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-02
+2025-07-16 21:38:18,065 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:18,065 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-03
+2025-07-16 21:38:21,800 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:21,800 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-04
+2025-07-16 21:38:25,526 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:25,526 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-05
+2025-07-16 21:38:29,388 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:29,389 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-06
+2025-07-16 21:38:33,116 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:33,117 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-07
+2025-07-16 21:38:36,875 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:36,875 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-08
+2025-07-16 21:38:40,706 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:40,707 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-09
+2025-07-16 21:38:44,728 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:44,728 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-10
+2025-07-16 21:38:48,422 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:48,423 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-11
+2025-07-16 21:38:52,159 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:52,160 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-12
+2025-07-16 21:38:56,405 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:38:56,405 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-13
+2025-07-16 21:39:00,195 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:00,196 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-14
+2025-07-16 21:39:04,162 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:04,162 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-15
+2025-07-16 21:39:07,950 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:07,950 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-16
+2025-07-16 21:39:11,673 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:11,673 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-17
+2025-07-16 21:39:15,386 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:15,386 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-18
+2025-07-16 21:39:19,814 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:19,815 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-19
+2025-07-16 21:39:23,593 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:23,593 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-20
+2025-07-16 21:39:27,351 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:27,351 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-21
+2025-07-16 21:39:31,054 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:31,055 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-22
+2025-07-16 21:39:34,815 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:34,815 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-23
+2025-07-16 21:39:38,532 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:38,532 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-24
+2025-07-16 21:39:42,265 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:42,266 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-25
+2025-07-16 21:39:46,006 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:46,007 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-26
+2025-07-16 21:39:49,839 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:49,840 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-27
+2025-07-16 21:39:53,648 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:53,649 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-28
+2025-07-16 21:39:57,525 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:39:57,526 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-29
+2025-07-16 21:40:01,258 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:40:01,258 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-30
+2025-07-16 21:40:05,036 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:40:05,038 - LichAm365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://licham365.vn cho ngày 2024-07-31
+2025-07-16 21:40:08,829 - LichAm365Crawler - INFO - Crawl thành công từ LichAm365
+2025-07-16 21:40:08,833 - LichAm365Crawler - INFO - Đã lưu 31 records vào data/test_8.json
+2025-07-16 21:40:33,039 - processors.data_processor - INFO - Đã load 31 records từ data/test_1.json
+2025-07-16 21:40:33,039 - processors.data_processor - INFO - Bắt đầu làm sạch dữ liệu...
+2025-07-16 21:40:33,050 - processors.data_processor - INFO - Hoàn thành làm sạch: 31 records hợp lệ
+2025-07-16 21:40:33,059 - processors.data_processor - INFO - Đã xuất 31 records ra SQLite database: data/test_1_processed.db
+2025-07-16 21:40:33,061 - processors.data_processor - INFO - Đã xuất 31 records ra data/test_1_processed.csv
+2025-07-16 21:56:53,548 - AutoCrawler - INFO - ✅ Đã khởi tạo tất cả crawlers
+2025-07-16 21:56:53,549 - AutoCrawler - INFO - 🗓️ Bắt đầu crawl tháng 07/2025
+2025-07-16 21:56:53,549 - AutoCrawler - INFO - 📡 Crawling demo for month 7/2025...
+2025-07-16 21:56:53,549 - DemoCrawler - INFO - Tạo demo data cho tháng 7/2025
+2025-07-16 21:56:54,054 - DemoCrawler - INFO - Đã tạo 31 ngày demo data
+2025-07-16 21:56:54,055 - AutoCrawler - INFO - ✅ demo: 31 ngày
+2025-07-16 21:56:54,055 - AutoCrawler - INFO - 📡 Crawling api_demo for month 7/2025...
+2025-07-16 21:56:58,040 - VietnameseCalendarAPI - WARNING - Attempt 1 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x110470050>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 21:57:00,045 - VietnameseCalendarAPI - WARNING - Attempt 2 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11046ca50>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 21:57:03,056 - VietnameseCalendarAPI - WARNING - Attempt 3 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x11046d090>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 21:57:03,056 - VietnameseCalendarAPI - ERROR - All attempts failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7
+2025-07-16 21:57:03,056 - VietnameseCalendarAPI - INFO - API không khả dụng, sử dụng demo data
+2025-07-16 21:57:03,057 - DemoCrawler - INFO - Tạo demo data cho tháng 7/2025
+2025-07-16 21:57:03,560 - DemoCrawler - INFO - Đã tạo 31 ngày demo data
+2025-07-16 21:57:03,560 - AutoCrawler - INFO - ✅ api_demo: 31 ngày
+2025-07-16 21:57:03,560 - AutoCrawler - INFO - 📡 Crawling lichviet for month 7/2025...
+2025-07-16 21:57:05,216 - LichVietCrawler - INFO - Đang crawl: https://lichviet.app/2025/07
+2025-07-16 21:57:17,027 - LichVietCrawler - ERROR - Lỗi crawl tháng 7/2025: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".calendar-container") to be visible
+
+2025-07-16 21:57:17,028 - AutoCrawler - WARNING - ⚠️ lichviet: Không có dữ liệu
+2025-07-16 21:57:17,028 - AutoCrawler - INFO - 📡 Crawling lichvn for month 7/2025...
+2025-07-16 21:57:18,830 - LichVnCrawler - WARNING - Attempt 1 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 21:57:21,389 - LichVnCrawler - WARNING - Attempt 2 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 21:57:24,945 - LichVnCrawler - WARNING - Attempt 3 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 21:57:24,945 - LichVnCrawler - ERROR - All attempts failed for https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 21:57:24,946 - AutoCrawler - WARNING - ⚠️ lichvn: Không có dữ liệu
+2025-07-16 21:57:24,946 - AutoCrawler - INFO - 📡 Crawling tuvi for month 7/2025...
+2025-07-16 21:57:26,286 - TuviCrawler - INFO - Đang phân tích: https://tuvi.vn/lich-am/2025/7
+2025-07-16 21:57:26,287 - TuviCrawler - WARNING - Không tìm thấy calendar table trong https://tuvi.vn/lich-am/2025/7
+2025-07-16 21:57:26,287 - AutoCrawler - WARNING - ⚠️ tuvi: Không có dữ liệu
+2025-07-16 21:57:26,288 - AutoCrawler - INFO - 💾 Đã lưu dữ liệu tháng: data/monthly/lich_2025_07.json (62 records)
+2025-07-16 21:57:26,290 - processors.data_processor - INFO - Đã load 62 records từ data/monthly/lich_2025_07.json
+2025-07-16 21:57:26,290 - processors.data_processor - INFO - Bắt đầu làm sạch dữ liệu...
+2025-07-16 21:57:26,296 - processors.data_processor - INFO - Hoàn thành làm sạch: 62 records hợp lệ
+2025-07-16 21:57:26,302 - processors.data_processor - INFO - Đã xuất 62 records ra SQLite database: data/monthly/lich_2025_07.db
+2025-07-16 21:57:26,305 - processors.data_processor - INFO - Đã xuất 62 records ra data/monthly/lich_2025_07.csv
+2025-07-16 21:57:26,306 - AutoCrawler - INFO - 📊 Thống kê: 62 records hợp lệ
+2025-07-16 21:57:26,306 - AutoCrawler - INFO - 📋 Tổng kết crawl tháng:
+2025-07-16 21:57:26,306 - AutoCrawler - INFO -   demo: ✅ 31 ngày
+2025-07-16 21:57:26,306 - AutoCrawler - INFO -   api_demo: ✅ 31 ngày
+2025-07-16 21:57:26,306 - AutoCrawler - INFO -   lichviet: ⚠️ Không có dữ liệu
+2025-07-16 21:57:26,306 - AutoCrawler - INFO -   lichvn: ⚠️ Không có dữ liệu
+2025-07-16 21:57:26,306 - AutoCrawler - INFO -   tuvi: ⚠️ Không có dữ liệu
+2025-07-16 22:44:45,759 - AutoCrawler - INFO - ✅ Đã khởi tạo tất cả crawlers
+2025-07-16 22:44:45,760 - AutoCrawler - INFO - 🚀 Bắt đầu crawl ngày 2025-07-16
+2025-07-16 22:44:45,760 - AutoCrawler - INFO - 📡 Crawling demo...
+2025-07-16 22:44:45,760 - DemoCrawler - INFO - Tạo demo data cho tháng 7/2025
+2025-07-16 22:44:46,265 - DemoCrawler - INFO - Đã tạo 31 ngày demo data
+2025-07-16 22:44:46,266 - AutoCrawler - INFO - ✅ demo: Crawl thành công
+2025-07-16 22:44:46,266 - AutoCrawler - INFO - 📡 Crawling api_demo...
+2025-07-16 22:44:47,628 - VietnameseCalendarAPI - WARNING - Attempt 1 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1079cfe00>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 22:44:49,639 - VietnameseCalendarAPI - WARNING - Attempt 2 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107b14690>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 22:44:52,653 - VietnameseCalendarAPI - WARNING - Attempt 3 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107b14cd0>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 22:44:52,653 - VietnameseCalendarAPI - ERROR - All attempts failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7
+2025-07-16 22:44:52,653 - VietnameseCalendarAPI - INFO - API không khả dụng, sử dụng demo data
+2025-07-16 22:44:52,653 - DemoCrawler - INFO - Tạo demo data cho tháng 7/2025
+2025-07-16 22:44:53,157 - DemoCrawler - INFO - Đã tạo 31 ngày demo data
+2025-07-16 22:44:53,157 - AutoCrawler - INFO - ✅ api_demo: Crawl thành công
+2025-07-16 22:44:53,157 - AutoCrawler - INFO - 📡 Crawling lichviet...
+2025-07-16 22:44:54,785 - LichVietCrawler - INFO - Đang crawl: https://lichviet.app/2025/07
+2025-07-16 22:45:06,723 - LichVietCrawler - ERROR - Lỗi crawl tháng 7/2025: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".calendar-container") to be visible
+
+2025-07-16 22:45:06,724 - AutoCrawler - WARNING - ⚠️ lichviet: Không có dữ liệu
+2025-07-16 22:45:06,724 - AutoCrawler - INFO - 📡 Crawling lichvn...
+2025-07-16 22:45:08,488 - LichVnCrawler - WARNING - Attempt 1 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 22:45:11,042 - LichVnCrawler - WARNING - Attempt 2 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 22:45:14,602 - LichVnCrawler - WARNING - Attempt 3 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 22:45:14,602 - LichVnCrawler - ERROR - All attempts failed for https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 22:45:14,602 - AutoCrawler - WARNING - ⚠️ lichvn: Không có dữ liệu
+2025-07-16 22:45:14,602 - AutoCrawler - INFO - 📡 Crawling tuvi...
+2025-07-16 22:45:15,855 - TuviCrawler - INFO - Đang phân tích: https://tuvi.vn/lich-am/2025/7
+2025-07-16 22:45:15,856 - TuviCrawler - WARNING - Không tìm thấy calendar table trong https://tuvi.vn/lich-am/2025/7
+2025-07-16 22:45:15,856 - AutoCrawler - WARNING - ⚠️ tuvi: Không có dữ liệu
+2025-07-16 22:45:15,857 - AutoCrawler - INFO - 💾 Đã lưu dữ liệu ngày: data/daily/lich_2025_07_16.json
+2025-07-16 22:45:15,857 - AutoCrawler - INFO - 📋 Tổng kết crawl hôm nay:
+2025-07-16 22:45:15,857 - AutoCrawler - INFO -   demo: ✅ Thành công
+2025-07-16 22:45:15,857 - AutoCrawler - INFO -   api_demo: ✅ Thành công
+2025-07-16 22:45:15,857 - AutoCrawler - INFO -   lichviet: ⚠️ Không có dữ liệu
+2025-07-16 22:45:15,858 - AutoCrawler - INFO -   lichvn: ⚠️ Không có dữ liệu
+2025-07-16 22:45:15,858 - AutoCrawler - INFO -   tuvi: ⚠️ Không có dữ liệu
+2025-07-16 22:46:44,104 - processors.data_processor - INFO - Đã load 31 records từ data/normalized/licham365_licham365_2024-07-01_to_2024-07-31_raw_20250716_215003_normalized.json
+2025-07-16 22:46:44,104 - processors.data_processor - INFO - Bắt đầu làm sạch dữ liệu...
+2025-07-16 22:48:03,264 - AutoCrawler - INFO - ✅ Đã khởi tạo tất cả crawlers
+2025-07-16 22:48:03,264 - AutoCrawler - INFO - 🚀 Bắt đầu crawl ngày 2025-07-16
+2025-07-16 22:48:03,265 - AutoCrawler - INFO - 📡 Crawling demo...
+2025-07-16 22:48:03,265 - DemoCrawler - INFO - Tạo demo data cho tháng 7/2025
+2025-07-16 22:48:03,770 - DemoCrawler - INFO - Đã tạo 31 ngày demo data
+2025-07-16 22:48:03,770 - AutoCrawler - INFO - ✅ demo: Crawl thành công
+2025-07-16 22:48:03,770 - AutoCrawler - INFO - 📡 Crawling api_demo...
+2025-07-16 22:48:04,778 - VietnameseCalendarAPI - WARNING - Attempt 1 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107b16d50>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 22:48:06,790 - VietnameseCalendarAPI - WARNING - Attempt 2 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107b17250>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 22:48:09,801 - VietnameseCalendarAPI - WARNING - Attempt 3 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107b17610>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 22:48:09,801 - VietnameseCalendarAPI - ERROR - All attempts failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7
+2025-07-16 22:48:09,801 - VietnameseCalendarAPI - INFO - API không khả dụng, sử dụng demo data
+2025-07-16 22:48:09,801 - DemoCrawler - INFO - Tạo demo data cho tháng 7/2025
+2025-07-16 22:48:10,307 - DemoCrawler - INFO - Đã tạo 31 ngày demo data
+2025-07-16 22:48:10,307 - AutoCrawler - INFO - ✅ api_demo: Crawl thành công
+2025-07-16 22:48:10,307 - AutoCrawler - INFO - 📡 Crawling lichviet...
+2025-07-16 22:48:11,839 - LichVietCrawler - INFO - Đang crawl: https://lichviet.app/2025/07
+2025-07-16 22:48:23,512 - LichVietCrawler - ERROR - Lỗi crawl tháng 7/2025: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".calendar-container") to be visible
+
+2025-07-16 22:48:23,512 - AutoCrawler - WARNING - ⚠️ lichviet: Không có dữ liệu
+2025-07-16 22:48:23,512 - AutoCrawler - INFO - 📡 Crawling lichvn...
+2025-07-16 22:48:25,312 - LichVnCrawler - WARNING - Attempt 1 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 22:48:27,869 - LichVnCrawler - WARNING - Attempt 2 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 22:48:31,433 - LichVnCrawler - WARNING - Attempt 3 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 22:48:31,433 - LichVnCrawler - ERROR - All attempts failed for https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 22:48:31,433 - AutoCrawler - WARNING - ⚠️ lichvn: Không có dữ liệu
+2025-07-16 22:48:31,433 - AutoCrawler - INFO - 📡 Crawling tuvi...
+2025-07-16 22:48:32,831 - TuviCrawler - INFO - Đang phân tích: https://tuvi.vn/lich-am/2025/7
+2025-07-16 22:48:32,832 - TuviCrawler - WARNING - Không tìm thấy calendar table trong https://tuvi.vn/lich-am/2025/7
+2025-07-16 22:48:32,832 - AutoCrawler - WARNING - ⚠️ tuvi: Không có dữ liệu
+2025-07-16 22:48:32,833 - AutoCrawler - INFO - 💾 Đã lưu dữ liệu ngày: data/daily/lich_2025_07_16.json
+2025-07-16 22:48:32,833 - AutoCrawler - INFO - 📋 Tổng kết crawl hôm nay:
+2025-07-16 22:48:32,833 - AutoCrawler - INFO -   demo: ✅ Thành công
+2025-07-16 22:48:32,833 - AutoCrawler - INFO -   api_demo: ✅ Thành công
+2025-07-16 22:48:32,833 - AutoCrawler - INFO -   lichviet: ⚠️ Không có dữ liệu
+2025-07-16 22:48:32,833 - AutoCrawler - INFO -   lichvn: ⚠️ Không có dữ liệu
+2025-07-16 22:48:32,833 - AutoCrawler - INFO -   tuvi: ⚠️ Không có dữ liệu
+2025-07-16 23:18:24,231 - AutoCrawler - INFO - ✅ Đã khởi tạo tất cả crawlers
+2025-07-16 23:18:47,394 - AutoCrawler - INFO - ✅ Đã khởi tạo tất cả crawlers
+2025-07-16 23:18:47,398 - AutoCrawler - INFO - 🚀 Bắt đầu crawl ngày 2025-07-16
+2025-07-16 23:18:47,399 - AutoCrawler - INFO - 📡 Crawling demo...
+2025-07-16 23:18:47,399 - DemoCrawler - INFO - Tạo demo data cho tháng 7/2025
+2025-07-16 23:18:47,904 - DemoCrawler - INFO - Đã tạo 31 ngày demo data
+2025-07-16 23:18:47,904 - AutoCrawler - INFO - ✅ demo: Crawl thành công
+2025-07-16 23:18:47,904 - AutoCrawler - INFO - 📡 Crawling api_demo...
+2025-07-16 23:18:49,299 - VietnameseCalendarAPI - WARNING - Attempt 1 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x105cc81a0>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 23:18:51,311 - VietnameseCalendarAPI - WARNING - Attempt 2 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x105cb8e10>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 23:18:54,316 - VietnameseCalendarAPI - WARNING - Attempt 3 failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7: HTTPSConnectionPool(host='api.calendar-vietnam.com', port=443): Max retries exceeded with url: /lunar-calendar/2025/7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x105cb9450>: Failed to resolve 'api.calendar-vietnam.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-16 23:18:54,316 - VietnameseCalendarAPI - ERROR - All attempts failed for https://api.calendar-vietnam.com/lunar-calendar/2025/7
+2025-07-16 23:18:54,317 - VietnameseCalendarAPI - INFO - API không khả dụng, sử dụng demo data
+2025-07-16 23:18:54,317 - DemoCrawler - INFO - Tạo demo data cho tháng 7/2025
+2025-07-16 23:18:54,822 - DemoCrawler - INFO - Đã tạo 31 ngày demo data
+2025-07-16 23:18:54,822 - AutoCrawler - INFO - ✅ api_demo: Crawl thành công
+2025-07-16 23:18:54,822 - AutoCrawler - INFO - 📡 Crawling lichviet...
+2025-07-16 23:18:55,617 - LichVietCrawler - INFO - Đang crawl: https://lichviet.app/2025/07
+2025-07-16 23:19:07,413 - LichVietCrawler - ERROR - Lỗi crawl tháng 7/2025: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(".calendar-container") to be visible
+
+2025-07-16 23:19:07,414 - AutoCrawler - WARNING - ⚠️ lichviet: Không có dữ liệu
+2025-07-16 23:19:07,414 - AutoCrawler - INFO - 📡 Crawling lichvn...
+2025-07-16 23:19:09,203 - LichVnCrawler - WARNING - Attempt 1 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 23:19:11,769 - LichVnCrawler - WARNING - Attempt 2 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 23:19:15,325 - LichVnCrawler - WARNING - Attempt 3 failed for https://lichvn.net/lich-van-nien/2025-07: 404 Client Error: Not Found for url: https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 23:19:15,326 - LichVnCrawler - ERROR - All attempts failed for https://lichvn.net/lich-van-nien/2025-07
+2025-07-16 23:19:15,326 - AutoCrawler - WARNING - ⚠️ lichvn: Không có dữ liệu
+2025-07-16 23:19:15,326 - AutoCrawler - INFO - 📡 Crawling tuvi...
+2025-07-16 23:19:16,629 - TuviCrawler - INFO - Đang phân tích: https://tuvi.vn/lich-am/2025/7
+2025-07-16 23:19:16,632 - TuviCrawler - WARNING - Không tìm thấy calendar table trong https://tuvi.vn/lich-am/2025/7
+2025-07-16 23:19:16,632 - AutoCrawler - WARNING - ⚠️ tuvi: Không có dữ liệu
+2025-07-16 23:19:16,633 - AutoCrawler - INFO - 💾 Đã lưu dữ liệu ngày: data/daily/lich_2025_07_16.json
+2025-07-16 23:19:16,633 - AutoCrawler - INFO - 📋 Tổng kết crawl hôm nay:
+2025-07-16 23:19:16,633 - AutoCrawler - INFO -   demo: ✅ Thành công
+2025-07-16 23:19:16,633 - AutoCrawler - INFO -   api_demo: ✅ Thành công
+2025-07-16 23:19:16,633 - AutoCrawler - INFO -   lichviet: ⚠️ Không có dữ liệu
+2025-07-16 23:19:16,633 - AutoCrawler - INFO -   lichvn: ⚠️ Không có dữ liệu
+2025-07-16 23:19:16,633 - AutoCrawler - INFO -   tuvi: ⚠️ Không có dữ liệu
+2025-07-16 23:37:42,860 - GenericCalendarCrawler - WARNING - Không tìm thấy dữ liệu online, tạo dữ liệu cơ bản cho 7/2025
+2025-07-16 23:39:36,268 - ImprovedCalendarCrawler - WARNING - Không tìm thấy dữ liệu online, tạo dữ liệu hybrid cho 7/2025
+2025-07-16 23:41:07,047 - AutoCrawler - INFO - ✅ Đã khởi tạo improved crawler
+2025-07-16 23:41:07,047 - AutoCrawler - INFO - 🚀 Bắt đầu crawl ngày 2025-07-16
+2025-07-16 23:41:07,047 - AutoCrawler - INFO - 📡 Crawling improved...
+2025-07-16 23:41:08,291 - ImprovedCalendarCrawler - WARNING - Không tìm thấy dữ liệu online, tạo dữ liệu hybrid cho 7/2025
+2025-07-16 23:41:08,292 - AutoCrawler - INFO - ✅ improved: Crawl thành công
+2025-07-16 23:41:08,293 - AutoCrawler - INFO - 💾 Đã lưu dữ liệu ngày: data/daily/lich_2025_07_16.json
+2025-07-16 23:41:08,293 - AutoCrawler - INFO - 📋 Tổng kết crawl hôm nay:
+2025-07-16 23:41:08,293 - AutoCrawler - INFO -   improved: ✅ Thành công
+2025-07-16 23:42:33,676 - ImprovedCalendarCrawler - WARNING - Không tìm thấy dữ liệu online, tạo dữ liệu hybrid cho 7/2025
+2025-07-18 20:31:41,845 - AutoCrawler - INFO - ✅ Đã khởi tạo improved crawler
+2025-07-18 20:31:41,845 - AutoCrawler - INFO - 🗓️ Bắt đầu crawl tháng 07/2025
+2025-07-18 20:31:41,845 - AutoCrawler - INFO - 📡 Crawling improved for month 7/2025...
+2025-07-18 20:31:51,819 - ImprovedCalendarCrawler - WARNING - Không tìm thấy dữ liệu online, tạo dữ liệu hybrid cho 7/2025
+2025-07-18 20:31:51,820 - AutoCrawler - INFO - ✅ improved: 31 ngày
+2025-07-18 20:31:51,827 - AutoCrawler - INFO - 💾 Đã lưu dữ liệu tháng: data/monthly/lich_2025_07.json (31 records)
+2025-07-18 20:31:51,827 - AutoCrawler - ERROR - ❌ Lỗi xử lý dữ liệu: name 'LichDataProcessor' is not defined
+2025-07-18 20:31:51,827 - AutoCrawler - INFO - 📋 Tổng kết crawl tháng:
+2025-07-18 20:31:51,827 - AutoCrawler - INFO -   improved: ✅ 31 ngày
+2025-07-18 20:32:30,621 - AutoCrawler - INFO - ✅ Đã khởi tạo improved crawler
+2025-07-18 20:32:30,621 - AutoCrawler - INFO - 🗓️ Bắt đầu crawl tháng 07/2025
+2025-07-18 20:32:30,621 - AutoCrawler - INFO - 📡 Crawling improved for month 7/2025...
+2025-07-18 20:32:32,329 - ImprovedCalendarCrawler - WARNING - Không tìm thấy dữ liệu online, tạo dữ liệu hybrid cho 7/2025
+2025-07-18 20:32:32,329 - AutoCrawler - INFO - ✅ improved: 31 ngày
+2025-07-18 20:32:32,330 - AutoCrawler - INFO - 💾 Đã lưu dữ liệu tháng: data/monthly/lich_2025_07.json (31 records)
+2025-07-18 20:32:32,330 - AutoCrawler - ERROR - ❌ Lỗi xử lý dữ liệu: name 'LichDataProcessor' is not defined
+2025-07-18 20:32:32,330 - AutoCrawler - INFO - 📋 Tổng kết crawl tháng:
+2025-07-18 20:32:32,330 - AutoCrawler - INFO -   improved: ✅ 31 ngày
+2025-07-18 20:33:41,622 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-01
+2025-07-18 20:33:43,120 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:43,120 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-02
+2025-07-18 20:33:44,460 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:44,460 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-03
+2025-07-18 20:33:45,808 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:45,808 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-04
+2025-07-18 20:33:47,232 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:47,232 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-05
+2025-07-18 20:33:48,586 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:48,586 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-06
+2025-07-18 20:33:49,954 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:49,954 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-07
+2025-07-18 20:33:51,312 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:51,312 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-08
+2025-07-18 20:33:52,722 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:52,722 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-09
+2025-07-18 20:33:54,139 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:54,139 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-10
+2025-07-18 20:33:55,488 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:55,488 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-11
+2025-07-18 20:33:56,916 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:56,916 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-12
+2025-07-18 20:33:58,472 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:58,473 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-13
+2025-07-18 20:33:59,810 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:33:59,810 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-14
+2025-07-18 20:34:01,490 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:01,490 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-15
+2025-07-18 20:34:03,460 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:03,460 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-16
+2025-07-18 20:34:05,629 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:05,629 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-17
+2025-07-18 20:34:07,864 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:07,865 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-18
+2025-07-18 20:34:10,524 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:10,524 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-19
+2025-07-18 20:34:13,933 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:13,933 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-20
+2025-07-18 20:34:19,339 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:19,340 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-21
+2025-07-18 20:34:24,190 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:24,190 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-22
+2025-07-18 20:34:29,216 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:29,217 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-23
+2025-07-18 20:34:34,161 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:34,162 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-24
+2025-07-18 20:34:38,311 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:38,312 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-25
+2025-07-18 20:34:43,906 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:43,907 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-26
+2025-07-18 20:34:49,972 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:49,972 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-27
+2025-07-18 20:34:56,831 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:34:56,831 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-28
+2025-07-18 20:35:04,683 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:35:04,683 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-29
+2025-07-18 20:35:12,215 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:35:12,215 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-30
+2025-07-18 20:35:18,290 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:35:18,291 - LichVanNien365Crawler - INFO - Bắt đầu crawl dữ liệu từ https://lichvannien365.com cho ngày 2024-07-31
+2025-07-18 20:35:22,867 - LichVanNien365Crawler - INFO - Crawl thành công từ LichVanNien365
+2025-07-18 20:35:22,869 - LichVanNien365Crawler - INFO - Đã lưu 31 records vào data/test_9.json
